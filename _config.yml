@@ -23,7 +23,7 @@ email: info@nextekk.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog posts for Nextekk LLC, the maker of NexQuiz - the free online marketplace for quizzes on
   wide range of topics and disciplines.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nextekk
 github_username:  nextekk
